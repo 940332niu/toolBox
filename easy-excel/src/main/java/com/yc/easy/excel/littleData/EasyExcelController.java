@@ -1,4 +1,4 @@
-package com.yc.easy.excel;
+package com.yc.easy.excel.littleData;
 
 import com.alibaba.excel.EasyExcel;
 import com.alibaba.fastjson.JSON;
@@ -11,11 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.HashSet;
 import java.util.List;
 
 @RestController

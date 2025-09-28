@@ -1,4 +1,4 @@
-package com.yc.easy.excel;
+package com.yc.easy.excel.littleData;
 
 import com.alibaba.excel.annotation.ExcelProperty;
 import lombok.Data;

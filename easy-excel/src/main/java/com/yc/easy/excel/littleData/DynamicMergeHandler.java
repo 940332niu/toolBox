@@ -1,4 +1,4 @@
-package com.yc.easy.excel;
+package com.yc.easy.excel.littleData;
 
 import com.alibaba.excel.metadata.Head;
 import com.alibaba.excel.write.merge.AbstractMergeStrategy;
